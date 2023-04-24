@@ -8,6 +8,9 @@
 I\`m **H**ao**XX**, I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 -   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
+-   ...
+-   ...
+-   ...
 
 ---
 
