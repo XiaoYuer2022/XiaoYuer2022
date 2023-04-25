@@ -28,15 +28,9 @@ Here are some ideas to get you started:
 #### :sparkles: [我的粉丝](https://github.com/XiaoYuer2022?tab=followers)
 
 <!--START_SECTION:followers-->
-
-
-
-
-
-
-
-
-
+<table>
+  </tr>
+</table>
 <!--END_SECTION:followers-->
 
 ---
