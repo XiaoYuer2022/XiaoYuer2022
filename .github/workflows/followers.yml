@@ -3,7 +3,7 @@ name: Get Followers
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 22 * * *'
   workflow_dispatch:
@@ -30,6 +30,7 @@ jobs:
           git config --local user.name "HaoY"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update followers"
+
 
       - name: Pull changes
         run: git pull -r
