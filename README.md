@@ -29,14 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:followers-->
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:followers-->
