@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 ## Hi, 我是小鱼
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=binjie09&locale=zh_Hans)
+
+
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=XiaoYuer2022&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
 一个即将工作的程序菜鸟
