@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, 我是小鱼
 
-<div align=center><img src="![GitHub Streak](https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans)"></div>
+<div align=center><img src="https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans"></div>
 ![GitHub Streak](https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans)
 
 ![Visitor Count](https://profile-counter.glitch.me/XiaoYuer2022/count.svg)
