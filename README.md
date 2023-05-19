@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 ## Hi, 我是小鱼
 
 <div align=center><img src="https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans"></div>
-![GitHub Streak](https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans)
 
-![Visitor Count](https://profile-counter.glitch.me/XiaoYuer2022/count.svg)
+
+
+<div align=center><img src="https://profile-counter.glitch.me/XiaoYuer2022/count.svg"></div>
+
 
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=XiaoYuer2022&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
