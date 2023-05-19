@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ## Hi, 我是小鱼
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=binjie09&locale=zh_Hans)
+![GitHub Streak](https://streak-stats.demolab.com?user=XiaoYuer2022&locale=zh_Hans)
+
+![Visitor Count](https://profile-counter.glitch.me/XiaoYuer2022/count.svg)
 
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=XiaoYuer2022&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
