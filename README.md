@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 一个即将工作的程序菜鸟
 
 -   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
--   ⚡ 技术博客: [阅览室](https://haoxx.netlify.app/)
+-   ⚡ 技术博客: [阅览室](https://haoxx.netlify.app/)or[镜像网站](https://haoxx.top/)
 -   📫 我的邮箱: 508506630@qq.com
 
 ---
