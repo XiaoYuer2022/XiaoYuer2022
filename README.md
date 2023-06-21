@@ -129,3 +129,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 20/06/2023 16:08:44 UTC
 <!--END_SECTION:waka-->
+
+Star History
+---------
+[![Star History Chart](https://api.star-history.com/svg?repos=XiaoYuer2022/XiaoYuer2022&type=Date)](https://star-history.com/#XiaoYuer2022/XiaoYuer2022&Date)
