@@ -46,13 +46,40 @@ Here are some ideas to get you started:
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2026%20mins-blue)
 
-```txt
-Batchfile   28 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.71 %
-C           27 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.81 %
-C++         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.47 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 648.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/XiaoYuer2022/XiaoYuer2022/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/11/2023 15:59:32 UTC
 <!--END_SECTION:waka-->
 
 Star History
