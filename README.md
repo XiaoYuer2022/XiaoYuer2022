@@ -46,12 +46,79 @@ Here are some ideas to get you started:
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%205%20mins-blue)
 
-```txt
-C     22 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜   69.70 %
-C++   9 mins          🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.30 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 757.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌆 Daytime                35 commits          ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+🌃 Evening                62 commits          █████████████░░░░░░░░░░░░   51.24 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/XiaoYuer2022/XiaoYuer2022/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/02/2024 15:59:43 UTC
 <!--END_SECTION:waka-->
 
 Star History
