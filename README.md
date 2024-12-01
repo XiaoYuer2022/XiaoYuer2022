@@ -37,14 +37,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:followers-->
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/trinhminhtriet">
-        <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
-      </a>
-      <br />
-      <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:followers-->
